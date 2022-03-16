@@ -1,0 +1,11 @@
+C:\Users\thawkins022713\source\repos\ex_6-10\ex_6-10\bin\Debug\ex_6-10.exe.config
+C:\Users\thawkins022713\source\repos\ex_6-10\ex_6-10\bin\Debug\ex_6-10.exe
+C:\Users\thawkins022713\source\repos\ex_6-10\ex_6-10\bin\Debug\ex_6-10.pdb
+C:\Users\thawkins022713\source\repos\ex_6-10\ex_6-10\obj\Debug\ex_6-10.csproj.AssemblyReference.cache
+C:\Users\thawkins022713\source\repos\ex_6-10\ex_6-10\obj\Debug\ex_6-10.csproj.SuggestedBindingRedirects.cache
+C:\Users\thawkins022713\source\repos\ex_6-10\ex_6-10\obj\Debug\ex_6_10.Form1.resources
+C:\Users\thawkins022713\source\repos\ex_6-10\ex_6-10\obj\Debug\ex_6_10.Properties.Resources.resources
+C:\Users\thawkins022713\source\repos\ex_6-10\ex_6-10\obj\Debug\ex_6-10.csproj.GenerateResource.cache
+C:\Users\thawkins022713\source\repos\ex_6-10\ex_6-10\obj\Debug\ex_6-10.csproj.CoreCompileInputs.cache
+C:\Users\thawkins022713\source\repos\ex_6-10\ex_6-10\obj\Debug\ex_6-10.exe
+C:\Users\thawkins022713\source\repos\ex_6-10\ex_6-10\obj\Debug\ex_6-10.pdb
